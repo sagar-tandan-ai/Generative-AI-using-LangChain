@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Generative AI using LangChain
 
 A hands-on repository for learning **Large Language Models (LLMs)** and **Generative AI ** using **LangChain**.
@@ -38,7 +37,7 @@ Before getting started, make sure you have:
 
 ```bash
 git clone https://github.com/sagar-tandan-ai/Generative-AI-using-LangChain.git
-````
+```
 
 Move into the project folder.
 
@@ -148,17 +147,6 @@ uv sync
 
 ---
 
-# 💻 Technologies Used
-
-* Python
-* LangChain
-* Vs Code
-* Gradio
-* UV
-* Git & GitHub
-
----
-
 # 🎯 Learning Outcomes
 
 After completing this repository, you will be able to:
@@ -183,14 +171,6 @@ It helps others discover the project and motivates future development.
 
 ---
 
-# 📄 License
-
-This project is intended for educational purposes.
-
-Feel free to use and modify it for learning and research.
-
----
-
 ## 👨‍💻 Author
 
 **Sagar Tandan**
@@ -199,4 +179,3 @@ Computer Engineer | Machine Learning & AI Enthusiast
 
 GitHub:
 https://github.com/sagar-tandan-ai
-
