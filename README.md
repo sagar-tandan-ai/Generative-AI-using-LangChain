@@ -1,6 +1,6 @@
 # 🚀 Generative AI using LangChain
 
-A hands-on repository for learning **Large Language Models (LLMs)** and **Generative AI ** using **LangChain**.
+A hands-on repository for learning **Large Language Models (LLMs)** and **Generative AI** using **LangChain**.
 
 This repository is designed for students, educators, and developers who want to understand the concepts behind LLMs and build real-world AI applications step by step.
 
